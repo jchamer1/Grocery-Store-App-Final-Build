@@ -1,0 +1,6 @@
+quarter,0.25
+dime,0.10
+nickel,0.05
+fifty-dollar,50
+twenty-dollar,20
+one-dollar,1
